@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float averageFloats(float *data, int dataCount)
+float averageFloats(float data[], int dataCount)
 {
     float sum = 0.0;
     
